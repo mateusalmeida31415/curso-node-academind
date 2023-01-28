@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: "Aboreto", cursive;
+}
+
+body {
+  height: 100vh;
+  background-image: linear-gradient(90deg, #9c47d6, #d8a8f5, #bfffbc);
+}
+main {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4);
+  width: fit-content;
+  padding: 40px;
+  height: fit-content;
+  border-radius: 10px;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: white;
+
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
+  font-size: 3rem;
+  text-align: center;
+}
+
+.form-box {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+
+input {
+  background-color: transparent;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 5px;
+  color: white;
+}
+input:focus {
+  border: 1px solid white;
+  box-shadow: none;
+  outline: none;
+}
+
+button {
+  background-color: white;
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+  color: #9c47d6;
+  text-transform: uppercase;
+}

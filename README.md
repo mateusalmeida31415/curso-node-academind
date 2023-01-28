@@ -38,3 +38,16 @@ Criar um novo projeto do zero com as seguintes especificações:
 * Criar um aplicação usando o express
 * Usar as middlaware para interceptar os requests
 
+## Desafio 3 (Módulo 5)
+1) Criar um novo projeto usando o Express
+2) Criar duas rotas utilizando express router que deverá servir arquivo html ("/" e "/admin/user")
+3) Adicionar arquivo estatico para serem servidos
+### O que aprendi com o desafio ? 
+* Criar rotas em diretórios separados utilizando o Express Router
+* Fazer o parse do request
+* Servir arquivos estáticos 
+* Criar utilitários
+* Sua o diretório /public
+* Trabalhar com o diretório /views
+* Usar middleware para rotas não definidas, 404 page not found
+* Enviar arquivo html pelo request
