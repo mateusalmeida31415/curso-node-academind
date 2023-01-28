@@ -11,7 +11,7 @@ Criar um novo projeto do zero com as seguintes especificações:
 
 3) Também adicionar um fomulário da página "/"
 * O formulário terá um input texto e um name e botão de submit
-* * O formulário deve enviar um POST request para "/create-user"
+* O formulário deve enviar um POST request para "/create-user"
 
 4) Ao atingir a rota "/create-user" devemos exibir o conteúdo do input no console e o usuário deve ser redirecionado para "/"
 ### O que aprendi com o desafio ? 
