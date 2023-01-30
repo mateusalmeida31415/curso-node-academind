@@ -51,3 +51,14 @@ Criar um novo projeto do zero com as seguintes especificações:
 * Trabalhar com o diretório /views
 * Usar middleware para rotas não definidas, 404 page not found
 * Enviar arquivo html pelo request
+## Desafio 4 (Módulo 6)
+1) Criar um novo projeto com express e nodemon
+2) Usar uma template engine (pug ou Ejs ou ...)
+3) Adicionar duas rotas
+* "/" com um formulário que permite adicionar um nome e exibir no console
+* "/users" exibe uma <ul> e exibir os nomes de um array passado para o template em um loop
+### O que aprendi com o desafio ? 
+* Usar o pug como template engine
+* Sintaxe do pug
+* Loops e condicionais usando o pug
+* Usar um main layout

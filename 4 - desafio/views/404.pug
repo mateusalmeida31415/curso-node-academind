@@ -1,0 +1,10 @@
+extends layouts/main-layout.pug
+
+block styles
+    link(rel="stylesheet", href="/css/404.css")
+block content
+    canvas#canvas(hidden)
+    div.center
+        h1 404
+        p PAGE NOT FOUND.
+    script(src="/js/404.js")
