@@ -62,3 +62,14 @@ Criar um novo projeto do zero com as seguintes especificações:
 * Sintaxe do pug
 * Loops e condicionais usando o pug
 * Usar um main layout
+
+## Desafio 5 (Módulo 7)
+1) Criar um novo projeto com o express e nodemon
+2) Usar a extrutura MVC
+3) Criar duas rotas "/" e "/users"
+4) "/" para o usuário adicionar o seu nome
+5) "/user" exibir todos os nomes de usuários
+6) Salvar os dados em um arquivo de texto 
+### O que aprendi com o desafio ? 
+* Lidar com a estrutura MVC
+* Usar os métodos da fs module

@@ -1,0 +1,9 @@
+extends layouts/main-layout.pug
+
+block content
+  main
+    div.box
+      h1 Esses são os usuários 😎       
+      ul
+        each user in users  
+          li #{user.name}
